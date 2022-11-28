@@ -1,1 +1,0 @@
-# oneceipt_page
