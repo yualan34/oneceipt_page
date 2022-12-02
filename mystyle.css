@@ -89,7 +89,7 @@ a {
     width: 100%;
     height: 100%;
     position: relative;
-    z-index: 2;
+    /*z-index: 2;*/
 }
 
 .logo {
@@ -102,7 +102,7 @@ a {
     background: url(assets/logo.png) no-repeat 50% 0;
     background-size: auto 440px;
     -webkit-background-size: auto auto;
-    z-index: 5;
+    /*z-index: 5;*/
 }
 
 .slogan {
@@ -140,7 +140,7 @@ a {
     width: 100%;
     height: 100%;
     text-align: center;
-    z-index: 3;
+    /*z-index: 3;*/
 }
 
 .download {
@@ -158,7 +158,7 @@ a {
     width: 100%;
     height: 100%;
     text-align: center;
-    z-index: 3;
+    /*z-index: 3;*/
 }
 
 .site {
@@ -174,7 +174,7 @@ a {
     font-family: "HelveticaNeue", "Helvetica", "Arial";
     position: absolute;
     top: 95.5%;
-    z-index: 4;
+    /*z-index: 4;*/
     color: #fff;
     font-size: 14px;
     left: 1.2%;
@@ -184,7 +184,7 @@ a {
     font-family: "Arial";
     position: absolute;
     top: 96.5%;
-    z-index: 4;
+    /*z-index: 4;*/
     color: #fff;
     font-size: 12px;
     left: 1.2%;
@@ -194,7 +194,7 @@ a {
 .snowcorp-contact {
     position: absolute;
     top: 1.2%;
-    z-index: 4;
+    /*z-index: 4;*/
     color: #fff;
     font-size: 20px;
     right: 1.2%;
